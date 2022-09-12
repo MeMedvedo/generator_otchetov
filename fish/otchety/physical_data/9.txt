@@ -1,0 +1,5 @@
+First name Anatoliy
+Last name Vlasov
+Age 69
+Gender m
+Growth 185

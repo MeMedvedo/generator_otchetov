@@ -1,0 +1,5 @@
+First name Vasilisa
+Last name Prekrasnaya
+Age 29
+Gender f
+Growth 170

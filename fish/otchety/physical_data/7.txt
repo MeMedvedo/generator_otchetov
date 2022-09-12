@@ -1,0 +1,5 @@
+First name Svetlana
+Last name Kurochkina
+Age 31
+Gender f
+Growth 172

@@ -1,0 +1,5 @@
+First name Alina
+Last name Kurochkina
+Age 81
+Gender f
+Growth 159

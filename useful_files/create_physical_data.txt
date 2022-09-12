@@ -1,0 +1,14 @@
+drop table physical_data
+
+CREATE TABLE physical_data (First_name VARCHAR(20), Last_name VARCHAR(20), Age INT, Gender VARCHAR(1), Growth real);
+INSERT INTO physical_data (first_name, last_name, age, gender, growth) VALUES ('Vasiliy', 'Petrov', 81, 'm', 169);
+INSERT INTO physical_data (first_name, last_name, age, gender, growth) VALUES ('Ivan', 'Ivanov', 24, 'm', 173);
+INSERT INTO physical_data (first_name, last_name, age, gender, growth) VALUES ('Mariya', 'Antonova', 31, 'f', 159);
+INSERT INTO physical_data (first_name, last_name, age, gender, growth) VALUES ('Vasilisa', 'Prekrasnaya', 29, 'f', 170);
+INSERT INTO physical_data (first_name, last_name, age, gender, growth) VALUES ('Vladislav', 'Tochkov', 41, 'm', 205);
+INSERT INTO physical_data (first_name, last_name, age, gender, growth) VALUES ('Vladimir', 'Vladimirov', 69, 'm', 170);
+INSERT INTO physical_data (first_name, last_name, age, gender, growth) VALUES ('Alina', 'Kurochkina', 81, 'f', 159);
+INSERT INTO physical_data (first_name, last_name, age, gender, growth) VALUES ('Svetlana', 'Kurochkina', 31, 'f', 172);
+INSERT INTO physical_data (first_name, last_name, age, gender, growth) VALUES ('Anastasiya', 'Berns', 45, 'f', 173);
+INSERT INTO physical_data (first_name, last_name, age, gender, growth) VALUES ('Anatoliy', 'Vlasov', 69, 'm', 185);
+select * from physical_data;

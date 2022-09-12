@@ -1,0 +1,26 @@
+___(\w*_*)___
+___\w*_* *\d*___ ?
+___[a-zA-Z0-9](\w*)[a-zA-Z0-9]___
+^((?!___)[\s\S])*$
+
+
+
+___[a-zA-Z0-9]{1}(\w*)[a-zA-Z0-9]{1}___
+
+(___([a-zA-Z0-9]([a-zA-Z0-9]+[_ ]?)*[a-zA-Z0-9])___)
+
+(___(([a-zA-Z0-9]+[_ ]?)*[a-zA-Z0-9])___[ a-zA-Z0-9]*)+?
+
+
+
+
+five six seven
+___last_name ___
+
+First name ___First namess_asasd___ abra ___first_name___ kadabra ___first_name___ ___asdf___
+Last name ___last_nam_as_e34___
+one two three four
+
+
+
+(___(([a-zA-Z0-9]+[_ ]?)*[a-zA-Z0-9])___)([\s\S]*)

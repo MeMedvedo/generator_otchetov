@@ -1,0 +1,5 @@
+First name Anastasiya
+Last name Berns
+Age 45
+Gender f
+Growth 173

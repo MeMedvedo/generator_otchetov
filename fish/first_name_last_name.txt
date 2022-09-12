@@ -1,0 +1,5 @@
+db_name otchet_f
+db_table_name physical_data
+
+First name ___First name___
+Last name ___last_name___

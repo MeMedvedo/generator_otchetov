@@ -1,0 +1,4 @@
+db_name otchet_f
+db_table_name physical_data
+
+there is no fields in this fish!

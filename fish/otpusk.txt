@@ -1,0 +1,5 @@
+db_name otchet_f
+db_table_name physical_data
+
+I ___Last_Name___ ___first_name___ proshu predostavit ejegodniy otpusk.
+___last_name___ ___first_name___ podpis _____

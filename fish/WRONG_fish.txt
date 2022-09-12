@@ -1,0 +1,6 @@
+db_name otchet_f
+db_table_name physical_data
+
+First name
+Last name
+Amount of children

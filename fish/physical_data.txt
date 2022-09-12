@@ -1,0 +1,8 @@
+db_name otchet_f
+db_table_name physical_data
+
+First name ___first name___
+Last name ___Last_name___
+Age ___age___
+Gender ___gender___
+Growth ___growth___

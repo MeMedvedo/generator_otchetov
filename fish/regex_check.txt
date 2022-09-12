@@ -1,0 +1,9 @@
+db_name otchet_f
+db_table_name physical_data
+
+five six seven
+___last_name ___
+
+First name ___First namess_asasd___ abra ___first_name___ kadabra ___first_name___ ___asdf___
+Last name ___last_nam_as_e34___
+one two three four
